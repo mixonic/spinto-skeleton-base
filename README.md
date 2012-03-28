@@ -4,6 +4,8 @@ Spinto base with Skeleton
 This project helps you bootstrap into [Spinto](http://www.spintoapp.com)
 with the [Skeleton CSS framework](http://getskeleton.com).
 
+Only `index.html` is provided by this sample site. Page layout is in the
+`_layouts` directory.
 
 **Spinto documentation**
 
